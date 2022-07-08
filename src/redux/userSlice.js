@@ -6,7 +6,7 @@ export const userSlice = createSlice({
         name: 'Hoang',
         age:"23",
         about:"I'm Web Developer",
-        avaUrl:"https://i.redd.it/mozfkrjpoa261.png",
+        avaUrl:`https://i.redd.it/7ipyf6pvqac61.png`,
         themeColor: "#ff9051",
         pending: false,
         error: false
